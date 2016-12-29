@@ -1,0 +1,125 @@
+@font-face {
+    font-family: "Lato";
+    src: url("./fonts/Lato-Regular.ttf");
+}
+@font-face {
+    font-family: "LatoSemiboldItalic";
+    src: url("./fonts/Lato-SemiboldItalic.ttf");
+}
+
+body {
+	background-color: #f7f9fc;
+	font-family: "Lato";
+}
+
+.content-mid {
+	margin-left: 13.4em;
+	margin-right: 13.4em;
+	margin-top: 4.4em;
+	width: 59.7em;
+}
+
+.index-refs {
+	float: right;
+	left: 1.82em;
+	position: relative;
+	top: 0.69em;
+	
+}
+
+.index-ref {
+	text-decoration: none;
+	margin-right: 1.95em;
+}
+
+.index-ref-selected {
+	color: #bdbdbd;
+}
+
+.index-ref-icon {
+	position: relative;
+	top: 0.26em;
+	right: 0.25em;
+}
+
+.content-mid-white {
+	background-color: white;
+	margin-top: 4.5em;
+}
+
+.content-mid-white-article {
+	padding-top: 3.2em;
+	margin-left: 6.2em;
+	margin-right: 7em;
+}
+
+.site-name {
+	color: black;
+	font-family: "LatoSemiboldItalic";
+	font-size: 2.68em;
+	text-decoration: none;
+}
+
+.white-content {
+	background-color: white;
+	margin-left: 6.2em;
+}
+
+.article {
+	margin-top: 1em;
+}
+
+.article-pic {
+	width: 128%;
+	position: relative;
+	right: 13.3%;
+	padding-bottom: 4em;
+}
+
+.i-do-tag {
+	padding: 9.7px;
+	display: inline-block;
+	color: white;
+	background-color: #5c6bc0;
+	float:right;
+	border-radius: 1px;
+	position: relative;
+	left: 8.45em;
+	bottom: 2.5em;
+	font-size: 0.89em;
+}
+
+.date {
+	color: #bdbdbd;
+	font-size: 0.85em;
+}
+
+.article-title {
+	font-size: 2.65em;
+	position: relative;
+	top: 0.275em;
+	right: 0.07em;
+}
+
+.article-under {
+	margin-top: 3.4em;
+}
+
+.article-under-read-more {
+	color: #5c6bc0;
+	text-decoration: none;
+	font-size: 1.2em;
+}
+
+.article-under-tags {
+	float: right;
+	display: inline-block;
+}
+
+.article-under-tag {
+	color: #b3b3b3;
+}
+
+
+
+
