@@ -45,6 +45,8 @@ body {
 .content-mid-white {
 	background-color: white;
 	margin-top: 4.5em;
+	padding-bottom: 1em;
+	margin-bottom: 3.5em;
 }
 
 .content-mid-white-article {
@@ -70,7 +72,7 @@ body {
 }
 
 .article-pic {
-	width: 128%;
+	margin: auto;
 	position: relative;
 	right: 13.3%;
 	padding-bottom: 4em;
@@ -120,6 +122,28 @@ body {
 	color: #b3b3b3;
 }
 
+.pages {
+	margin: auto;
+	width: 25%;
+}
 
+.page {
+	background-color: white;
+	color: black;
+	padding: 1em;
+	margin: 1em;
+	text-decoration: none;
+}
 
+.page-current {
+	color: white;
+	background-color: #5c6bc0;
+}
 
+.blue-footer {
+	background-color: #5c6bc0;
+	margin-top: 6em;
+	height: 150px;
+	width: auto;
+	position: fixed;
+}
